@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17700" started-at="2021-02-13T18:03:30 IST" finished-at="2021-02-13T18:03:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17700" started-at="2021-02-13T18:03:30 IST" finished-at="2021-02-13T18:03:47 IST">
+      <class name="javaBasics.DataProviders">
+        <test-method status="PASS" signature="setup()[pri:0, instance:javaBasics.DataProviders@687080dc]" name="setup" is-config="true" duration-ms="8328" started-at="2021-02-13T18:03:30 IST" finished-at="2021-02-13T18:03:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:javaBasics.DataProviders@687080dc]" name="testMethod" duration-ms="3153" started-at="2021-02-13T18:03:38 IST" data-provider="getDataFromDataprovider" finished-at="2021-02-13T18:03:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Guru99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:javaBasics.DataProviders@687080dc]" name="testMethod" duration-ms="3066" started-at="2021-02-13T18:03:41 IST" data-provider="getDataFromDataprovider" finished-at="2021-02-13T18:03:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Krishna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="testMethod(java.lang.String, java.lang.String)[pri:0, instance:javaBasics.DataProviders@687080dc]" name="testMethod" duration-ms="3072" started-at="2021-02-13T18:03:44 IST" data-provider="getDataFromDataprovider" finished-at="2021-02-13T18:03:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bhupesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:javaBasics.DataProviders@687080dc]" name="closeBrowser" is-config="true" duration-ms="44" started-at="2021-02-13T18:03:47 IST" finished-at="2021-02-13T18:03:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- javaBasics.DataProviders -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
