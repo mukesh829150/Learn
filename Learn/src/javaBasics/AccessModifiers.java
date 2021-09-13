@@ -26,4 +26,5 @@ public class AccessModifiers extends StringOutput{
 		a.mtdDefault();
 	}
 
+	
 }
