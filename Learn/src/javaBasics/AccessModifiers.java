@@ -25,7 +25,5 @@ public class AccessModifiers extends StringOutput{
 		a.methodPrtd();
 		a.mtdDefault();
 	}
-	
-
 
 }
